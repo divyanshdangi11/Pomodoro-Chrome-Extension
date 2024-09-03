@@ -1,8 +1,5 @@
 # FocusBoost: Pomodoro Timer Chrome Extension 🍅
 
-## 🎥 Check It Out in Action ⏰
-[Watch the demo video](https://user-images.githubusercontent.com/69964629/138063621-01f5d696-f911-40bc-88d0-58312fb265cc.mp4)
-
 ## Beat Procrastination with FocusBoost! 🥳
 <img src="https://user-images.githubusercontent.com/69964629/138051517-e12caa27-30a3-4905-bef2-a5f169fb9316.jpg" width="700"/>
 
